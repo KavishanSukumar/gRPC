@@ -7,7 +7,7 @@ Implemented:- JAVA
 
 Used BloomRPC to test the Server
 
-<img height="400" src="C:\Users\User\Pictures\Screenshots\Screenshot 2024-01-03 004448.png" width="auto"/>
+<img height="400" src="images/Screenshot 2024-01-03 004448.png" width="auto"/>
 
 
-<img height="400" src="C:\Users\User\Pictures\Screenshots\Screenshot 2024-01-03 004504.png" width="auto"/>
+<img height="400" src="images/Screenshot 2024-01-03 004504.png" width="auto"/>
