@@ -7,6 +7,11 @@ Implemented:- JAVA
 
 Used BloomRPC to test the Server
 
+- Have to provide the server IP and port (localhost:9090)
+- Upload the stub
+
+
+
 <img height="400" src="images/Screenshot 2024-01-03 004448.png" width="auto"/>
 
 
